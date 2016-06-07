@@ -1,0 +1,91 @@
+body{
+	background-image: url("https://i.ytimg.com/vi/ULsS3B-FYwo/maxresdefault.jpg");
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+#general{
+	border: 4px solid green;
+ 	margin-left: 5px;
+ 	float: left;
+ 	background: black;
+ 	text-align: center;
+ 	color: green;
+}
+
+#darthvader{
+	border: 4px solid blue;
+ 	margin-left: 5px;
+ 	float: left;
+ 	background: black;
+ 	text-align: center;
+ 	color: blue;
+}
+
+#leia{
+	border: 4px solid red;
+ 	margin-left: 5px;
+ 	float: left;
+ 	background: black;
+ 	text-align: center;
+ 	color: red;
+ }
+
+#stormtrooper{
+	border: 4px solid yellow;
+ 	margin-left: 5px;
+ 	float: left;
+ 	background: black;
+ 	text-align: center;
+ 	color: yellow;
+}
+
+#header{
+	text-align: center;
+	text-decoration: underline;
+	color: white;
+}
+
+#heading{
+	border: 1px solid red;
+    background-color: yellow;
+    padding: 20px 10px 20px 40px;
+    text-align: center;
+}
+
+#row{
+	color: white;
+}
+
+.button1 {
+    background-color: green;
+    border: none;
+    color: red;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button2 {
+    background-color: red;
+    border: none;
+    color: green;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
